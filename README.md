@@ -30,5 +30,7 @@ RMSE 값이 작을수록, 모델의 예측 정확도가 높다고 판단할 수 
 # 5주차 과제
 DataMining_5.ipynb 파일을 보시면 됩니다. 
 
+# 6주차 과제
+DataMining6.ipynb 파일을 보시면 됩니다. 
 
 
