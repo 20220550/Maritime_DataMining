@@ -37,5 +37,7 @@ DataMining6.ipynb 파일을 보시면 됩니다.
 9주차 과제 파일을 보시면 됩니다. 
 
 # 10주차 과제
-10주차 과제 파일을 보시면 됩니다. 
+DataMining10.ipynb 파일을 보시면 됩니다. 
 
+# 11주차 과제
+DataMining11.ipynb 파일을 보시면 됩니다. 
