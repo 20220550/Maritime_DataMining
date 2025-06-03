@@ -44,3 +44,6 @@ DataMining11.ipynb 파일을 보시면 됩니다.
 
 # 12주차 과제
 DataMining12.ipynb 파일을 보시면 됩니다. 
+
+# 13주차 과제
+DataMining13.ipynb 파일을 보시면 됩니다. 
